@@ -32,4 +32,6 @@
  
 <br />
 
+![snake gif](https://github.com/robinsandhu/robinsandhu/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=robinsandhu&label=Profile%20views&color=blueviolet&style=flat" alt="robinsandhu" /> </p>
