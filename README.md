@@ -13,7 +13,7 @@
 
 - 📝 You can find my blogs [here](https://medium.com/@robin-sandhu)
 
-- ⚡ Fun fact **I think I can be a rock climber**
+- ⚡ Things I want to explore outside work **rock climbing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
