@@ -1,19 +1,17 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Robin</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">Your average Software Engineer</h3>
 
-- 🔭 I’m currently working on [Boardy](https://github.com/robinsandhu/boardy)
+- 🌱 Currently trying to learn **Golang**
 
-- 🌱 I’m currently trying to learn **Spring Framework**
-
-- 👯 I’m looking to collaborate on **OpenSource projects**
+- 👯 Looking to collaborate on **OpenSource projects**
 
 - 👨‍💻 Click [here](https://robinsandhu.in) to check out my portfolio website 
 
 - 📝 You can find my blogs [here](https://medium.com/@robin-sandhu)
 
-- ⚡ Things I want to explore outside work **rock climbing**
+- ⚡ Things I want to explore outside work: **rock climbing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
